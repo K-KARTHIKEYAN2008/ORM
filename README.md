@@ -59,4 +59,4 @@ class StudentAdmin(admin.ModelAdmin):
 ![alt text](<Screenshot 2026-11-26 000600-1.png>)
 
 ## RESULT
-Thus the program for creating vehicle service Database using ORM hss been executed successfully.
+Thus the program for creating Students Details Database using ORM has been executed successfully.
